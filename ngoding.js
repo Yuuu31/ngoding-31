@@ -1,0 +1,3 @@
+//belajar
+
+console.log("ngoding")
